@@ -1778,8 +1778,8 @@
         </dependency>
 
         <dependency>
-            <groupId>org.apache.qpid</groupId>
-            <artifactId>proton-jms</artifactId>
+            <groupId>org.apache.activemq</groupId>
+            <artifactId>activemq-amqp</artifactId>
         </dependency>
 
         <dependency>
